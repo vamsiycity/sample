@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Unofficial Bageshwardham Android App**
+**Bageshwar Dham Sarkar Official Android App**
 
 **Effective Date:** *(add date)*
 
