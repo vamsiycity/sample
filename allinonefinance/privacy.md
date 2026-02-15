@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**All in One Social Network App**
+**All in One Finance App**
 
 **Effective Date:** *(add date)*
 
-This Privacy Policy explains how information is collected, used, and protected when you use the **All in One Social Network App** (“App”). We respect your privacy and are committed to protecting it.
+This Privacy Policy explains how information is collected, used, and protected when you use the **All in One Finance App** (“App”). We respect your privacy and are committed to protecting it.
 
 ---
 
@@ -63,7 +63,7 @@ This Privacy Policy may be updated from time to time. Any changes will be reflec
 
 ## Disclaimer
 
-This is an **unofficial Android application** and is **not affiliated with or endorsed by All in One Social Network App or its official organization**. All content is provided for informational purposes only.
+This is an **unofficial Android application** and is **not affiliated with or endorsed by All in One Finance App or its official organization**. All content is provided for informational purposes only.
 
 ---
 
