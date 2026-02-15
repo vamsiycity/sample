@@ -4,7 +4,7 @@
 
 **Effective Date:** *(add date)*
 
-This Privacy Policy explains how information is collected, used, and protected when you use the **Unofficial Bageshwardham Android App** (“App”). We respect your privacy and are committed to protecting it.
+This Privacy Policy explains how information is collected, used, and protected when you use the **Shri Devkinandan Thakur Ji Maharaj Android App** (“App”). We respect your privacy and are committed to protecting it.
 
 ---
 
