@@ -1,3 +1,10 @@
 {
-    "bwbss_allow": false
+    "bwbsss": true, 
+    "education": true,
+    "lfs": true,
+    "kpskadma": true,
+    "kpsmango": true,
+    "kpsmgm": true,
+    "kpsgamharia": true,
+    "kpsincab": true
 }
