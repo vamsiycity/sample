@@ -2,9 +2,9 @@
     "bwbsss": true, 
     "education": true,
     "lfs": true,
-    "kpskadma": false,
-    "kpsmango": false,
-    "kpsmgm": false,
-    "kpsgamharia": false,
-    "kpsincab": false
+    "kpskadma": true,
+    "kpsmango": true,
+    "kpsmgm": true,
+    "kpsgamharia": true,
+    "kpsincab": true
 }
