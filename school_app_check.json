@@ -9,7 +9,7 @@
     "kpsincab": true,
     "ios_bwbsss": true, 
     "ios_education": true,
-    "ios_lfs": true,
+    "ios_lfs": false,
     "ios_kpskadma": true,
     "ios_kpsmango": true,
     "ios_kpsmgm": true,
